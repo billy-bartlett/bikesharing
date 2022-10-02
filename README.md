@@ -1,5 +1,6 @@
 ## Overview
-The purpose of this analysis was to determine whether starting a bike-sharing program in Des Moines, Iowa is a good business venture. 
+The purpose of this analysis was to determine whether starting a bike-sharing program in Des Moines, Iowa is a good business venture. Please view my story on Tableau Public.
+[link to dashboard](https://public.tableau.com/app/profile/billy.bartlett/viz/NYCCitiBikeChallenge-BillyBartlett/Bike-sharingStory#1)
 
 ## Results
 **Checkout Times for Users**
