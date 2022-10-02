@@ -8,33 +8,33 @@ The purpose of this analysis was to determine whether starting a bike-sharing pr
 
 This chart provides a visual of trip durations. Looking at the chart, we can see the vast majority of trips have a trip duration of 1 minute to 24 minutes with the highest number of trips clocking in at a 5 minute duration. 
 
-**Checkout Time by Gender**
+**Checkout Times by Gender**
 
---insert Checkout Time by Gender image
+![Checkout Times by Gender](https://github.com/billy-bartlett/bikesharing/blob/main/Resources/Checkout%20Times%20by%20Gender.png?raw=true)
 
 This chart shows us trip durations by gender. There are significantly more male riders renting bikes than female riders. The most common      trip duration for male riders is 5 minutes with a total of 108k riders while the most popular trip duration for female riders is 6 minutes with a total of 34k riders.
 
 **Trip by Weekday per Hour**
 
---insert Trip by Weekday per Hour image
+![Trip by Weekday per Hour](https://github.com/billy-bartlett/bikesharing/blob/main/Resources/Trips%20by%20Weekday%20per%20Hour.png?raw=true)
 
 Here we see there is heavy usage from 7 a.m. to 9 a.m. and 5 p.m. to 7 p.m. Monday through Friday. We also see heavy usage on Saturday from 10 a.m to 7 p.m. and on Sunday from 12 p.m. to 5 p.m. This data tells us that weekday peak hours fall around work schedules, whereas the weekend covers a large section of the day.
 
 **Trips by Gender (Weekday Per Hour)**
 
---insert Trips by Gender (Weekday Per Hour) image
+![Trips by Gender (Weekday Per Hour)](https://github.com/billy-bartlett/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20per%20Hour).png?raw=true)
 
 This comparison chart tells us there are more male riders than female riders and that the peak ride times are similar for both genders.
 
 **User Trips by Gender by Weekday**
 
---insert User Trips by Gender by Weekday image
+![User Trips by Gender by Weekday](https://github.com/billy-bartlett/bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png?raw=true)
 
 Here we can see weekdays have more usage and male riders are more prevalent. We can also see there is heavier usage from subscribers than nonsubscribers. Marketing to push subscriptions is a great idea! This also indicates subscribers have more use for a bike-sharing program than nonsubscribers, which we should expect. 
 
-**Top starting and ending locations**
+**Top Starting and Ending Locations**
 
---insert Top starting and ending locations image
+![Top Starting and Ending Locations](https://github.com/billy-bartlett/bikesharing/blob/main/Resources/StaringEndingComparison.png?raw=true)
 
 These maps indicate heavy usage in the city and lower usage as you move further away from the city center. This helps us forecast the best placement to ensure the most usage for the bike-sharing program.
 
